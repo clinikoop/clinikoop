@@ -15,6 +15,7 @@
 
 | Platform | Link |
 |---------|------|
+| 🌐 Clinikoop | [[http://clinikoop.com/](http://clinikoop.com/)) |
 | 🌐 Linktree | [linktr.ee/clinikoop](https://linktr.ee/clinikoop) |
 | 💼 LinkedIn | [linkedin.com/company/clinikoop](https://www.linkedin.com/company/clinikoop) |
 | ✍️ Medium | [medium.com/@clinikoop](https://medium.com/@clinikoop) |
