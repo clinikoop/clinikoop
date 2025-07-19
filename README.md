@@ -23,9 +23,9 @@
 | 📸 Wikimedia Commons | [Clinikoop Logo](https://commons.wikimedia.org/wiki/File:Clinikoop_400x400.jpg) |
 | 🧠 Wikidata | [wikidata.org/wiki/Q135416148](https://www.wikidata.org/wiki/Q135416148) |
 | 💻 GitHub | [github.com/clinikoop](https://github.com/clinikoop) |
-| 📸 Instagram | [instagram.com/clinikoop](https://instagram.com/clinikoop) *(varsa)* |
-| 🐦 X (Twitter) | [twitter.com/clinikoop](https://twitter.com/clinikoop) *(varsa)* |
-| 🎥 YouTube | [youtube.com/@clinikoop](https://youtube.com/@clinikoop) *(varsa)* |
+| 📸 Instagram | [instagram.com/clinikoop](https://instagram.com/clinikoop) |
+| 🐦 X (Twitter) | [twitter.com/clinikoop](https://twitter.com/clinikoop) |
+| 🎥 YouTube | [youtube.com/@clinikoop](https://youtube.com/@clinikoop) |
 
 > 📌 Yukarıdaki sosyal ağların tümü Clinikoop’un dijital varlığını oluşturur. İçeriklerin tamamı bilgi, tanıtım ve şeffaflık temellidir.
 
