@@ -1,16 +1,27 @@
-## Hi there 👋
+# Clinikoop – Dijital Klinik Asistanı 🦷💻
 
-<!--
-**clinikoop/clinikoop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Clinikoop**, diş klinikleri ve sağlık turizmi odaklı kurumlar için geliştirilmiş teklif tabanlı hasta yönetim yazılımıdır.  
+Akıllı randevu sistemleri, çok dilli iletişim, hasta yolculuğu yönetimi ve klinik operasyon takibi sağlar.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Özellikler
+- 🧾 Teklif tabanlı hasta yönetimi
+- 🌍 Sağlık turizmine özel dil desteği
+- 📆 Randevu ve klinik takvimi entegrasyonu
+- 🧠 Yapay zekâ destekli klinik asistan
+
+---
+
+## Hedef Kitle
+- Diş klinikleri  
+- Sağlık turizmi şirketleri  
+- Klinik yöneticileri  
+- Hasta koordinatörleri
+
+---
+
+## Daha Fazlası
+- [LinkedIn](https://www.linkedin.com/company/clinikoop)
+- [Medium](https://medium.com/@clinikoop)
+- [Wikidata](https://www.wikidata.org/wiki/Q135416148)
